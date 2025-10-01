@@ -193,10 +193,10 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![alt text](<../rest/restapp/static/Screenshot 2025-09-30 161602.png>) 
-![alt text](<../rest/restapp/static/Screenshot 2025-09-30 161944.png>)
-![alt text](<../rest/restapp/static/Screenshot 2025-09-30 162118.png>) 
-![alt text](<../rest/restapp/static/Screenshot 2025-09-30 162245.png>)
+![alt text](<Screenshot 2025-09-30 161602.png>) 
+![alt text](Screenshot 2025-09-30 161944.png>)
+![alt text](<Screenshot 2025-09-30 162118.png>) 
+![alt text](<Screenshot 2025-09-30 162245.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
